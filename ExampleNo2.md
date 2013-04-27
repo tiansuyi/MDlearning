@@ -31,7 +31,7 @@ print("hiahiahia")
 ----------------------------
 
 ```r
-plot(c(1, 2, 3), c(0.9, 2.1, 3))
+plot(c(1, 2, 3), c(0.9, 2.1, 3), type = "l")
 ```
 
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
