@@ -12,10 +12,10 @@ if (a > 0.5) print("Yes")
 ----------------------------
 
 ```r
-print("hiahia")
+print("hiahiahia")
 ```
 
 ```
-## [1] "hiahia"
+## [1] "hiahiahia"
 ```
 

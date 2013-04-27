@@ -10,5 +10,5 @@ print("Yes")
 如果大括号里不止“r”呢
 ----------------------------
 ```{r}
-print("hiahia")
+print("hiahiahia")
 ```
